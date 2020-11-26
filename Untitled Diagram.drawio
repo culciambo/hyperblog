@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T10:03:35.142Z" agent="5.0 (Windows)" etag="rgFTkqzVhxoerj5jcetO" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T10:03:50.008Z" agent="5.0 (Windows)" etag="n_9QhpstrpY1h-QwnzWJ" version="13.10.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="1551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -227,7 +227,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b7qujc3QgQlARMlM-PAf-15" value="Equipos_de_Construccion" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="500" width="250" height="150" as="geometry" />
+          <mxGeometry x="120" y="520" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="b7qujc3QgQlARMlM-PAf-16" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="b7qujc3QgQlARMlM-PAf-15" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -280,8 +280,8 @@
             <mxPoint x="390" y="623" as="targetPoint" />
             <Array as="points">
               <mxPoint x="420" y="515" />
-              <mxPoint x="420" y="480" />
-              <mxPoint x="245" y="480" />
+              <mxPoint x="420" y="500" />
+              <mxPoint x="245" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
